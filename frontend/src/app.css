@@ -1,0 +1,245 @@
+  .login {
+      height: fit-content;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      max-width: 100vw;
+  }
+
+  .wrapper {
+      width: 100%;
+      max-width: 600px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+  }
+
+  .left,
+  .inputs {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin-top: 10px;
+  }
+
+  .center {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+  }
+
+  .or {
+      border: 2px solid lightgray;
+      border-radius: 50%;
+      padding: 10px;
+      color: gray;
+      background-color: white;
+      font-weight: bold;
+  }
+
+  .line {
+      width: 0.5px;
+      height: 70%;
+      background-color: lightgray;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+      z-index: -1;
+  }
+
+  .loginButton {
+      width: 150px;
+      padding: 15px 25px;
+      border-radius: 5px;
+      color: white;
+      display: flex;
+      align-items: center;
+      font-weight: bold;
+      margin-bottom: 20px;
+      cursor: pointer;
+  }
+
+  .google {
+      background-color: #df4930;
+  }
+
+  .facebook {
+      background-color: #507cc0;
+  }
+
+  .github {
+      background-color: black;
+  }
+
+  .icon {
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+  }
+
+  input {
+      width: 70%;
+      padding: 10px 10px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      border-radius: 5px;
+  }
+
+  .submit {
+      max-width: 60vw;
+      background-color: rgba(128, 0, 128, 0.671);
+      color: white;
+      font-weight: bold;
+      border: none;
+      padding: 15px 20px;
+      border-radius: 5px;
+  }
+
+  .loginTitle {
+      position: absolute;
+      top: 150px;
+      color: lightgray
+  }
+
+  .link {
+      color: inherit;
+      text-decoration: none;
+  }
+
+  .list {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      list-style: none;
+      margin-bottom: 0;
+  }
+
+  .listItem {
+      margin-right: 20px;
+      font-weight: 600;
+      cursor: pointer;
+  }
+
+  .listItem>img {
+      width: 35px;
+      border-radius: 30px;
+  }
+
+  .perfume-description-carrito div {
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      gap: 2rem;
+      width: 100%;
+  }
+
+  .perfume-description-carrito button {
+      max-width: 100%;
+      border-radius: 6px;
+  }
+
+  .perfume-description-carrito button:hover {
+      background-color: rgb(201, 221, 240);
+  }
+
+  .card-body {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      height: 100%;
+  }
+
+  .card-body>div:first-child {
+      width: 85%;
+  }
+
+  .flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .perfume-caracteristicas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+  }
+
+  .flex-columns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .checkbox-cart {
+    width: fit-content;
+  }
+
+  .searcher {
+    width: 98%;
+    border: 0.1px solid black;
+    display: flex;
+    justify-content: center;
+    margin: 1rem auto;
+    cursor: pointer;
+  }
+
+  @media screen and (max-width: 992px) {
+
+      .wrapper {
+          width: 100%;
+          flex-direction: column;
+      }
+
+      .loginTitle {
+          display: none;
+      }
+
+      .center {
+          width: 100%;
+          position: relative;
+      }
+
+      .left {
+          padding: 10px;
+      }
+
+      .line {
+          height: 0.5px;
+          width: 300px;
+      }
+
+      .perfume-description-carrito div {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          width: 100%;
+          margin-top: 2rem;
+      }
+
+      .item-page {
+          max-width: 300px;
+      }
+
+      .card-body>div:first-child {
+          width: 100%;
+      }
+
+      .perfume-caracteristicas {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        margin-top: 2rem;
+      }
+
+  }

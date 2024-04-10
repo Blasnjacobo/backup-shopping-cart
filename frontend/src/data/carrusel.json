@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Daisy Eau So Intense Eau de Parfum",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "price": 28,
+        "imgUrl": "https://cdn.media.amplience.net/i/Marc_Jacobs/MJI_3616301776017_000_F8F8F8_1-1_ALT1?fmt=auto&sm=aspect&aspect=3:3.4&w=1592&qlt=68&img404=NOIMAGEMEDIUM_1-1&unsharp=0%2C1%2C1%2C20"
+    },
+    {
+        "id": 2,
+        "name": "Good Girl Line by Carolina Herrera",
+        "description": "Un aroma sofisticado y delicioso. Representa totalmente una colonia Italiana, con acordes cítricos, amaderados y de tabaco ligeramente dulce. Perfecta como fragancia firma.",
+        "price": 28,
+        "imgUrl": "https://ifragranceofficial.com/wp-content/uploads/2023/05/the-original-good-girl-carolina-herrera.jpg"
+    },
+    {
+        "id": 3,
+        "name": "SAUVAGE DIOR",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "price": 28,
+        "imgUrl": "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/77017/maxresdefault_55.jpg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+    },
+    {
+        "id": 4,
+        "name": " Mayar Perfume / Eau De Perfume",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "price": 28,
+        "imgUrl": "https://pbs.twimg.com/media/F5v2ON4WMAALroo.jpg"
+    },
+    {
+        "id": 5,
+        "name": "La vida es Bella / La vie est belle de Lancôme",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "price": 28,
+        "imgUrl": "https://i.pinimg.com/originals/00/f7/8b/00f78ba07ebfe556afc202314bae3457.jpg"
+    },
+    {
+        "id": 6,
+        "name": "VALENTINO UOMO INTENSE",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "price": 28,
+        "imgUrl": "https://lajolieperfumes.com/wp-content/uploads/2022/08/Valentino-Uomo-Intense-EDP-100ml-la-jolie-perfumes-03.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Calvin Klein Eternity For Men Eau De Toilette",
+        "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        "price": 28,
+        "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_832162-MLM51361545805_082022-O.webp"
+    }
+]

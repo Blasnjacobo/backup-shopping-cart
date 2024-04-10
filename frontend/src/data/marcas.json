@@ -1,0 +1,57 @@
+[
+    {
+        "id": 7,
+        "marca": "Versace",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/versace.jpg?raw=true"
+    },
+    {
+        "id": 8,
+        "marca": "Halloween",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/Halloween.png?raw=true"
+    },
+    {
+        "id": 9,
+        "marca": "Jean Paul Gaultier",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/JeanPaulGaultier.png?raw=true"
+    },
+    {
+        "id": 10,
+        "marca": "MontBlanc",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/MontBlanc.png?raw=true"
+    },
+    {
+        "id": 11,
+        "marca": "Nautica",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/Nautica.png?raw=true"
+    },
+    {
+        "id": 12,
+        "marca": "Calvin Klein",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/calvinKlein.png?raw=true"
+    },
+    {
+        "id": 1,
+        "marca": "Paris Hilton",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/Paris_hilton.jpg?raw=true"
+    },
+    {
+        "id": 2,
+        "marca": "Carolina Herrera",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/carolina_herrera.jpg?raw=true"
+    },
+    {
+        "id": 3,
+        "marca": "Dior",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/dior.jpg?raw=true"
+    },
+    {
+        "id": 4,
+        "marca": "Paco Rabanne",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/paco_rabanne.jpg?raw=true"
+    },
+    {
+        "id": 6,
+        "marca": "Prada",
+        "imgUrl": "https://github.com/Blasnjacobo/external-files/blob/main/shoppin-cart-mom/marcas/prada.jpg?raw=true"
+    }
+]
